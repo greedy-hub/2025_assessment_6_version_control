@@ -4,6 +4,10 @@
 
 - [Generate initial text files for students](https://github.com/davmlaw/2025_assessment_6_version_control/issues/1) - including initial errors
 
+### Changed  
+
+- [Removed unintended XXXXXXX token from data/a1948226.txt](https://github.com/greedy-hub/2025_assessment_6_version_control/issues/186) - fixed high severity issue and ensured correct spacing between words.
+
 ## [0.1.1] - 2025-10-26
 
 ### Added
